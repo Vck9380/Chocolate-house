@@ -1,0 +1,3 @@
+sqlalchemy
+#pip install sqlalchemy
+''' sql alchemy is used for ORM based applications also it is very much flexible than sqllite
